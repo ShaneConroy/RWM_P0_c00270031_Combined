@@ -266,6 +266,20 @@
       },
       "url": "https://packages.unity.com"
     },
+    "ie.setu.fact": {
+      "version": "https://github.com/AlanRondoleanu/RWM_P0_C00207239.git?path=/Testing/Packages/ie.setu.fact",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b1b7e9a09bba9eaf58b8e0e640ca1588d82c1ea5"
+    },
+    "ie.setu.runningtotal": {
+      "version": "https://github.com/ShaneConroy/RWM_P0_c00270031.git?path=/RunningTotal/Packages/ie.setu.runningtotal/",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5e9fb9c352a629beec9c823013120a4b1f64cae4"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

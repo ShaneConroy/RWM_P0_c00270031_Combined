@@ -1,0 +1,17 @@
+{
+    "name": "scripts",
+    "rootNamespace": "",
+    "references": [
+        "Fact",
+        "RunningTotal"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

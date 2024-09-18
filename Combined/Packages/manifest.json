@@ -10,6 +10,8 @@
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
+    "ie.setu.fact": "https://github.com/AlanRondoleanu/RWM_P0_C00207239.git?path=/Testing/Packages/ie.setu.fact",
+    "ie.setu.runningtotal": "https://github.com/ShaneConroy/RWM_P0_c00270031.git?path=/RunningTotal/Packages/ie.setu.runningtotal/",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
